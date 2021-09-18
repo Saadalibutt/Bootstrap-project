@@ -1,0 +1,294 @@
+body{
+
+background-color: white;
+
+}
+
+
+.navIcon{
+font-size: 22px;
+
+}
+.navfont{
+
+
+font-size: 18px;
+
+
+}
+
+.btnround{
+
+border-radius: 15px;
+
+
+}
+
+.imgSize{
+
+float: right;
+width: 800px;
+
+
+}
+
+
+.main-image{
+
+background-image: url("images/hero-img.jpg");
+background-repeat: no-repeat;
+background-size: 50%;
+background-position: right top;
+height: 100vh;
+
+
+}
+.imgMain{
+
+width: 50%;
+float: right;
+margin: 0;
+
+
+
+}
+.maintext{
+
+margin-top: 50%;
+
+
+
+
+}
+
+
+
+.consultbg{
+
+    background-image: url("images/cta-bg.png");
+    padding: 20px;
+    margin-top: 20px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+
+.text{
+
+justify-content: center;
+position: absolute;
+margin-top: 10%;
+margin-left: 20%;
+transform: translate(-10%,-20%);
+
+}
+
+.servicesbg{
+
+background-image: url("images/bg-shape.svg");
+background-repeat: no-repeat;
+background-position: center;
+
+background-size: 50%;
+
+
+}
+
+.serviceCardsBorder{
+
+    border: 2px solid whitesmoke;
+    border-radius: 10px;
+
+
+
+
+}
+
+.OurServices{
+
+align-items: center;
+
+}
+.bgSevices{
+
+align-items: center;
+background-image: url("images/bg-shape.svg");
+background-repeat: no-repeat;
+background-size: cover;
+background-size: 70%;
+background-position: center;
+
+
+}
+.card-deck{
+
+ 
+box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+}
+
+
+
+
+
+    
+
+    .industrybtn{
+       
+        border-radius: 15px;
+
+    }
+
+.textIndus{
+
+
+text-align: center;
+
+
+
+
+}
+.btncenter{
+
+margin: 0 auto;
+
+}
+
+.card{
+
+border-radius: 10px;
+ box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+}
+.card:hover{
+
+
+cursor: pointer;
+}
+    
+    
+
+.newsImage{
+
+        width: 100%;
+        height: 100%;
+        display: flex;
+
+}
+
+.newsletterh1{
+
+        justify-content: center;
+        position: absolute;
+        margin-top: 10%;
+        margin-left: 15%;
+        transform: translate(-10%,-20%);
+
+
+}
+
+
+.newsletterbtn{
+
+justify-content: center;
+position: absolute;
+margin-top: 14%;
+margin-left: 18%;
+transform: translate(-18%,-14%);
+border-radius: 15px;
+
+}
+
+.newsletterImg{
+
+    background-image: url("images/careers-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    padding: 20px;
+    
+    
+
+
+}
+
+
+.footerIcons{
+
+margin-right: 20px;
+font-size: 20px;
+padding: 8px;
+border-radius: 15px;
+background-color:whitesmoke;
+
+
+
+}
+
+.list-unstyled li a{
+
+text-decoration: none;
+color: black;
+line-height: 40px;
+
+
+
+}
+
+.list-unstyled li a:hover{
+
+color: silver;
+
+
+}
+
+
+.clientImg{
+
+    width: 50%;
+    
+
+
+
+}
+
+.sarah{
+
+width: 40px;
+border-radius: 20px;
+
+}
+.textnews{
+
+position: relative;
+margin-top: -20%;
+text-align: center;
+
+
+}
+.latestNews{
+
+margin: 0;
+padding: 0;
+
+
+}
+.cornerround{
+
+border-radius: 10px;
+border:1px solid whitesmoke;
+
+
+}
+
+
+
+
+
+
+
+
+
